@@ -2,11 +2,12 @@
 Measuring the distance of an object and displaying it on LCD
 
 ### System consists of:
-1. ICU (Input Capture Unit)
-2. Ultrasonic Sensor
-3. LCD
-4. Buzzer
-5. LEDS
+1. ATMEGA32
+2. ICU (Input Capture Unit)
+3. Ultrasonic Sensor
+4. LCD
+5. Buzzer
+6. LEDS
 
 Details:
 - Display the distance on LCD as long as it is less than 80 and turn on the Buzzer and warning lamp (Red LED)
