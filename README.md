@@ -1,6 +1,9 @@
 # Distance-Measuring-System
 Measuring the distance of an object and displaying it on LCD
 
+###Video
+https://drive.google.com/file/d/1CJMpn_UBCwybTSTPWhnWinStSsTBDQwM/view?usp=share_link
+
 ### System consists of:
 1. ATMEGA32
 2. ICU (Input Capture Unit)
