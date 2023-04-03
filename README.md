@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1CJMpn_UBCwybTSTPWhnWinStSsTBDQwM/view?usp=share
 5. Buzzer
 6. LEDS
 
-Details:
+### Details:
 - Display the distance on LCD as long as it is less than 80 and turn on the Buzzer and warning lamp (Red LED)
 - Say "No object" if the distance is more than 80, and turn on the safe lamp (Yellow LED)
 
